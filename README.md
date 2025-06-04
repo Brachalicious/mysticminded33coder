@@ -1,2 +1,2 @@
 # mysticminded33coder
-Testing code on chat got etc
+Testing code on chat gpt etc
